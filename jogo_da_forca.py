@@ -21,7 +21,7 @@ tema, palavra_selecionada = escolher_palavra()
 
 
 def comecar_jogo():
-    tentativas = 5
+    tentativas = 7
     acertou = False
     letras_corretas = []
     letras_incorretas = []
